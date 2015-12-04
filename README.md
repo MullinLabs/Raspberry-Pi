@@ -1,2 +1,2 @@
 # Raspberry-Pi
-All of my raspberry pi projects here
+All of my Raspberry Pi projects are here
